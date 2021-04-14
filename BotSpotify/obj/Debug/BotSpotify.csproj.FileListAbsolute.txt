@@ -1,0 +1,130 @@
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\NLog.config
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Proxy-Auto-Auth_v2.0.crx
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\spotify.txt
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Инструкция.txt
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\BotSpotify.exe.config
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\BotSpotify.exe
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\BotSpotify.pdb
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\CommonWrapper.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\NLog.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\System.Data.SqlServerCe.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\WebDriver.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\WebDriver.Support.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Telegram.Bot.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Newtonsoft.Json.dll
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\CommonWrapper.pdb
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\NLog.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\WebDriver.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\WebDriver.Support.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Telegram.Bot.xml
+E:\Bitbucket\ParsersAll\BotSpotify\bin\Debug\Newtonsoft.Json.xml
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.csprojAssemblyReference.cache
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.EditProxies.resources
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.EditUrl.resources
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.Main.resources
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.Properties.Resources.resources
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.csproj.GenerateResource.cache
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.csproj.CoreCompileInputs.cache
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.csproj.CopyComplete
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.exe
+E:\Bitbucket\ParsersAll\BotSpotify\obj\Debug\BotSpotify.pdb
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.EditProxies.resources
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.EditUrl.resources
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.Main.resources
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.Properties.Resources.resources
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.GenerateResource.cache
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CoreCompileInputs.cache
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csprojAssemblyReference.cache
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\NLog.config
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\spotify.txt
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\Инструкция.txt
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\Proxy-Auto-Auth_v2.0.crx
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\BotSpotify.exe.config
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\BotSpotify.exe
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\BotSpotify.pdb
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\CommonWrapper.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\NLog.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\System.Data.SqlServerCe.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\WebDriver.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\WebDriver.Support.dll
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\CommonWrapper.pdb
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\NLog.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\WebDriver.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\bin\Debug\WebDriver.Support.xml
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CopyComplete
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.exe
+D:\Downloads\Telegram Desktop\BS\BotSpotify\obj\Debug\BotSpotify.pdb
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\NLog.config
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\spotify.txt
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\Proxy-Auto-Auth_v2.0.crx
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\BotSpotify.exe.config
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\BotSpotify.exe
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\BotSpotify.pdb
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\CommonWrapper.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\NLog.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\WebDriver.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\WebDriver.Support.dll
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\CommonWrapper.pdb
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\NLog.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\WebDriver.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\bin\Debug\WebDriver.Support.xml
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csprojAssemblyReference.cache
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.EditProxies.resources
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.EditUrl.resources
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.Main.resources
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.Properties.Resources.resources
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.GenerateResource.cache
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CoreCompileInputs.cache
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CopyComplete
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.exe
+C:\Users\bigjo\Desktop\BS\BotSpotify\obj\Debug\BotSpotify.pdb
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\NLog.config
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\spotify.txt
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Proxy-Auto-Auth_v2.0.crx
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\BotSpotify.exe.config
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\BotSpotify.exe
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\BotSpotify.pdb
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\CommonWrapper.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\NLog.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\WebDriver.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\WebDriver.Support.dll
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\CommonWrapper.pdb
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\NLog.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\WebDriver.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\WebDriver.Support.xml
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.csprojAssemblyReference.cache
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.EditProxies.resources
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.EditUrl.resources
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.Main.resources
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.Properties.Resources.resources
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.csproj.GenerateResource.cache
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CoreCompileInputs.cache
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.csproj.CopyComplete
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.exe
+C:\Users\legen\workspace\BS\BS\BotSpotify\obj\Debug\BotSpotify.pdb

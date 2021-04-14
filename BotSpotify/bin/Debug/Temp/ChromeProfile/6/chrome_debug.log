@@ -1,0 +1,7 @@
+[5112:13504:0414/193710.650:INFO:CONSOLE(1)] "SharedArrayBuffer will require cross-origin isolation as of M91, around May 2021. See https://developer.chrome.com/blog/enabling-shared-array-buffer/ for more details.", source: https://open.scdn.co/cdn/build/web-player/vendor~web-player.26cc809b.js (1)
+[5112:13504:0414/193711.518:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: this.send is not a function", source: https://open.scdn.co/cdn/build/web-player/web-player.0a0402b4.js (1)
+[5112:13504:0414/193711.519:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: this.send is not a function", source: https://open.scdn.co/cdn/build/web-player/web-player.0a0402b4.js (1)
+[5112:13504:0414/193713.126:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: this.send is not a function", source: https://open.scdn.co/cdn/build/web-player/web-player.0a0402b4.js (1)
+[5112:13504:0414/193716.175:ERROR:device_event_log_impl.cc(214)] [19:37:16.175] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5112:13504:0414/193716.183:ERROR:device_event_log_impl.cc(214)] [19:37:16.183] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5112:13504:0414/193837.775:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
