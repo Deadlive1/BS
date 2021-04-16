@@ -1,0 +1,3 @@
+[10604:6292:0416/164558.565:ERROR:device_event_log_impl.cc(214)] [16:45:58.565] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
+[10604:6292:0416/164558.596:ERROR:device_event_log_impl.cc(214)] [16:45:58.596] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
+[10604:6292:0416/164558.636:ERROR:device_event_log_impl.cc(214)] [16:45:58.636] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)

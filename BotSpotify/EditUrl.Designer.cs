@@ -1,4 +1,6 @@
-﻿namespace BotSpotify
+﻿using System;
+
+namespace BotSpotify
 {
     partial class EditUrl
     {
@@ -85,7 +87,7 @@
             this.buttonCancel.Text = "Отмена";
             this.buttonCancel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.buttonCancel.UseVisualStyleBackColor = true;
-            this.buttonCancel.Click += new System.EventHandler(this.buttonCancel_Click);
+            this.buttonCancel.Click += new System.EventHandler(GetButtonCancel_Click());
             // 
             // contextMenuStripUrl
             // 
@@ -120,6 +122,11 @@
             this.contextMenuStripUrl.ResumeLayout(false);
             this.ResumeLayout(false);
 
+        }
+
+        private EventHandler GetButtonCancel_Click()
+        {
+            return this.buttonCancel_Click;
         }
 
         #endregion

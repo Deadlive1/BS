@@ -1,0 +1,4 @@
+[4104:20156:0416/174239.526:ERROR:device_event_log_impl.cc(214)] [17:42:39.527] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
+[4104:20156:0416/174239.540:ERROR:device_event_log_impl.cc(214)] [17:42:39.541] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
+[4104:20156:0416/174244.082:INFO:CONSOLE(1)] "The singleton usage of SemanticMetrics will be deprecated. Please use createSemanticMetrics()", source: https://www.scdn.co/www-account-pages/pf/_next/static/chunks/pages/_app-a1770d39fda8e850bc88.js (1)
+[4104:20156:0416/174340.321:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
