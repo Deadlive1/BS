@@ -39,9 +39,12 @@ namespace BotSpotify
 
         private int listen = 0;
         private bool isPause;
-
+        private bool isWasPaused;
         TimeSpan time_work;
         TimeSpan time_pause;
+        private bool isPlaying;
+        private ChromeDriver driver;
+        private object isDriver;
 
         #endregion
 
@@ -110,14 +113,17 @@ namespace BotSpotify
 
         private void buttonStop_Click(object sender, EventArgs e)
         {
+            isPause = true;
+            isWasPaused = true;
+            isPlaying = false;
             isCanceled = true;
-
             timerWork.Stop();
             timerPause.Stop();
 
             Task.Delay(1000).Wait();
 
             updateStatus("Завершение работы");
+            enable();
         }
 
         private void checkBoxIsListenTime_CheckedChanged(object sender, EventArgs e)
@@ -1105,7 +1111,6 @@ namespace BotSpotify
             var isLastTrack = false;
             var startedAt = DateTime.Now;
 
-
             updateStatus(context, user, "Прослушивание трека");
 
             Listening listening = new Listening();
@@ -1166,10 +1171,9 @@ namespace BotSpotify
                             isWasPaused = true;
                             isPlaying = false;
                         }
-
                         Task.Delay(1000).Wait();
-
                         continue;
+
                     }
                     else
                     {
@@ -1179,9 +1183,10 @@ namespace BotSpotify
                             Task.Delay(3000).Wait();
 
                             play_Spotify(driver, context, user);
-
                             isWasPaused = false;
                             isPlaying = true;
+                            
+                            return false;
                         }
                     }
 
@@ -1246,7 +1251,7 @@ namespace BotSpotify
                     ts_now = driver.FindElements(By.ClassName("playback-bar__progress-time")).FirstOrDefault(x => !String.IsNullOrEmpty(x.Text));
                     time_now = getTimeSpan_Spotify(ts_now.Text);
 
-                    ts_end = driver.FindElements(By.ClassName("playback-bar__progress-time")).LastOrDefault(x => !String.IsNullOrEmpty(x.Text));
+                    ts_end = driver.FindElements(By.ClassName("_3a5249d5858e3e9a297d855ad04d4be6-scss")).LastOrDefault(x => !String.IsNullOrEmpty(x.Text));
                     time_max = getTimeSpan_Spotify(ts_end.Text);
 
                     updateStatus(context, user, $"Прослушивание трека {indexTrack} из {maxTrack} | " + time_now.ToString().Substring(3) + " - " + time_max.ToString().Substring(3));
@@ -1255,7 +1260,10 @@ namespace BotSpotify
                 }
 
                 if (isCanceled)
+                {
                     updateStatus(context, user, "Отменено пользователем");
+                    pause_Spotify(driver);
+                }
                 else
                     updateStatus(context, user, "Прослушивание завершено");
             }
@@ -1290,6 +1298,7 @@ namespace BotSpotify
             }
 
             return result;
+
         }
 
         private void goToStart_Spotify(ChromeDriver driver)
