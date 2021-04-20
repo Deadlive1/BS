@@ -1,0 +1,7 @@
+2021/04/20-19:37:11.042 3bc8 Reusing MANIFEST C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-19:37:11.043 3bc8 Recovering log #3
+2021/04/20-19:37:11.045 3bc8 Reusing old log C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2021/04/20-19:38:14.097 2bf8 Level-0 table #5: started
+2021/04/20-19:38:14.104 2bf8 Level-0 table #5: 38303 bytes OK
+2021/04/20-19:38:14.106 2bf8 Delete type=0 #3
+2021/04/20-19:38:14.107 2bf8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

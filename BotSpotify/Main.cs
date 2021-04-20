@@ -583,7 +583,7 @@ namespace BotSpotify
             {
                 log.Error(ex);
 
-                updateStatus(ex: ex);
+                //updateStatus(ex: ex);
             }
             finally
             {
@@ -912,7 +912,7 @@ namespace BotSpotify
                         {
                             log.Error(ex);
 
-                            updateStatus(context, user, "Ошибка: " + ex.Message);
+                            //updateStatus(context, user, "Ошибка: " + ex.Message);
                         }
                         finally
                         {
@@ -1018,7 +1018,7 @@ namespace BotSpotify
             {
                 log.Error(ex.Message);
 
-                updateStatus(ex: ex);
+                //updateStatus(ex: ex);
             }
             finally
             {
@@ -1412,7 +1412,7 @@ namespace BotSpotify
                         {
                             log.Error(ex);
 
-                            updateStatus(context, user, "Ошибка: " + ex.Message);
+                            //updateStatus(context, user, "Ошибка: " + ex.Message);
                         }
                         finally
                         {
@@ -1507,7 +1507,7 @@ namespace BotSpotify
             {
                 log.Error(ex.Message);
 
-                updateStatus(ex: ex);
+                //updateStatus(ex: ex);
             }
             finally
             {
