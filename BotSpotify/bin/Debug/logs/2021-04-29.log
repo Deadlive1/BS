@@ -1,0 +1,1573 @@
+2021-04-29 15:16:12.3341 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElements(String mechanism, String value)
+   в CommonWrapper.WrapperSelenium.WaitLoadList(IWebDriver driver, String id, String className, String xPath, String tagName, String linkText, String textInside, Nullable`1 timeToWait) в E:\Bitbucket\CommonWrapper\CommonWrapper\WrapperSelenium.cs:строка 229
+   в BotSpotify.Main.checkAuthorization_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1034
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 888
+2021-04-29 15:16:14.6849 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:16.7348 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:19.3103 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:21.4011 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:23.5479 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:24.8252 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElements(String mechanism, String value)
+   в CommonWrapper.WrapperSelenium.WaitLoadList(IWebDriver driver, String id, String className, String xPath, String tagName, String linkText, String textInside, Nullable`1 timeToWait) в E:\Bitbucket\CommonWrapper\CommonWrapper\WrapperSelenium.cs:строка 229
+   в BotSpotify.Main.checkAuthorization_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1034
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 888
+2021-04-29 15:16:25.5823 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:27.6265 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:29.6593 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:31.6857 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:33.7223 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:35.7555 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:37.7813 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:39.0591 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:39.8087 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:41.8442 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:43.8696 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:45.8894 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:47.9088 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:49.9665 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:52.0028 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:53.2477 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:54.0594 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:56.0829 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:16:58.1122 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:00.1565 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:04.3929 ERROR OpenQA.Selenium.WebDriverException: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:54885/session/bf1844caba878e03085274590da6045b/url. The status of the exception was KeepAliveFailure, and the message was: Базовое соединение закрыто: Соединение, которое должно было работать, было разорвано сервером. ---> System.Net.WebException: Базовое соединение закрыто: Соединение, которое должно было работать, было разорвано сервером. ---> System.IO.IOException: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetResponse()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- Конец трассировки внутреннего стека исключений ---
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:19.2383 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54886
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:19.2383 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54885
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:25.3767 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54885
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:25.3767 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54886
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:32.1028 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54885
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:32.1678 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54886
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:17:33.3045 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()
+   в BotSpotify.Main.<>c.<getBtnPlay_Spotify>b__62_0(IWebElement x) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в System.Linq.Enumerable.LastOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   в BotSpotify.Main.getBtnPlay_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в BotSpotify.Main.play_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1076
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 898
+2021-04-29 15:17:38.5420 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.6399 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.7049 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.7579 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.8108 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.8558 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.9088 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:38.9618 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.0157 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.0597 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.1007 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.1466 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.1946 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.2356 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.2796 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.3215 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.3655 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.4185 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.4635 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.5064 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.5494 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.5984 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.6444 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.6883 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.7303 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.7723 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.8193 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.8602 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.9012 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:39.9552 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:43.4928 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElements(String mechanism, String value)
+   в CommonWrapper.WrapperSelenium.WaitLoadList(IWebDriver driver, String id, String className, String xPath, String tagName, String linkText, String textInside, Nullable`1 timeToWait) в E:\Bitbucket\CommonWrapper\CommonWrapper\WrapperSelenium.cs:строка 229
+   в BotSpotify.Main.checkAuthorization_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1034
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 888
+2021-04-29 15:17:56.6937 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:56.8906 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:56.9616 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.0255 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.0865 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.1884 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.2484 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.2954 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.3563 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.4013 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.4463 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.4933 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.5412 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.5841 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.6251 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.6661 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.7151 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.7615 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.8035 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.8474 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.8904 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.9384 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:57.9804 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:58.0253 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:58.0723 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:58.1143 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:58.1672 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:17:58.2112 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:18:34.3327 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54885
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:18:36.9392 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:54886
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:18:37.9896 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:55081
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:18:38.1805 ERROR OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение [::1]:55078
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:18:40.0414 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElements(String mechanism, String value)
+   в CommonWrapper.WrapperSelenium.WaitLoadList(IWebDriver driver, String id, String className, String xPath, String tagName, String linkText, String textInside, Nullable`1 timeToWait) в E:\Bitbucket\CommonWrapper\CommonWrapper\WrapperSelenium.cs:строка 229
+   в BotSpotify.Main.checkAuthorization_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1034
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 888
+2021-04-29 15:18:42.0910 ERROR OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 884
+2021-04-29 15:19:54.6863 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:54.8212 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:54.8622 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:54.9041 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:54.9501 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:54.9897 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.0308 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.0705 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.1115 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.1585 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.1984 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.2414 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.2819 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.3209 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.3668 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.4111 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.4510 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.4900 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.5319 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.5817 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.6407 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.7286 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.7866 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.8645 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.9215 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:55.9805 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:56.0414 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:56.0994 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:56.1444 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:19:56.1943 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:21:37.5381 ERROR The HTTP request to the remote WebDriver server for URL http://localhost:55560/session/e98245938ecfe9e774ee2864474075a2/elements timed out after 60 seconds.
+2021-04-29 15:22:04.4147 ERROR OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.authorization_Spotify(Int64 id) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1025
+   в BotSpotify.Main.dataGridViewUsers_CellClick(Object sender, DataGridViewCellEventArgs e) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 170
+2021-04-29 15:22:48.8462 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:48.9481 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.3139 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.3868 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.4448 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.5508 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.6377 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.7456 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.8336 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.8936 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:49.9495 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.0115 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.0834 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.1554 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.2284 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.3503 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.4322 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.5062 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.6141 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.6891 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.7840 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.8560 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.9140 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:50.9729 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.0469 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.1069 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.1758 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.2518 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.3018 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:22:51.3477 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:27.5991 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:27.8739 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:27.9389 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.0498 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.1258 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.1897 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.2527 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.3217 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.3816 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.4446 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.5296 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.5955 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.6655 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.7484 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.8074 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.8674 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:28.9453 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.0692 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.1452 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.2012 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.2581 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.3191 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.3671 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.4110 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.4550 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.5060 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.5660 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:29.6089 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:52.7882 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:52.9451 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:52.9991 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.0561 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.1250 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.1740 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.2280 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.2800 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.3239 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.3669 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.4099 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.4632 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.5034 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.5427 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.5822 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.6221 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.6701 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.7171 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.7631 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.8029 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.8439 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.8948 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.9354 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:53.9757 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:54.0157 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:54.0561 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:54.1011 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:23:54.1421 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.4292 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.5051 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.6980 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.7650 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.8250 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.8739 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.9239 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:27.9799 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.0318 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.0748 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.1538 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.2387 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.2897 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.3307 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.3746 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.4266 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.4716 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.5126 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.5555 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.6005 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.6445 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.6845 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.7274 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.7692 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.8131 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.8611 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.9051 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:24:28.9473 ERROR OpenQA.Selenium.InvalidCookieDomainException: invalid cookie domain
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteCookieJar.AddCookie(Cookie cookie)
+   в BotSpotify.Main.setCookies(IWebDriver driver, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 698
+2021-04-29 15:37:28.4344 ERROR OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()
+   в BotSpotify.Main.<>c.<getBtnPlay_Spotify>b__62_0(IWebElement x) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в System.Linq.Enumerable.LastOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   в BotSpotify.Main.getBtnPlay_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в BotSpotify.Main.pause_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1291

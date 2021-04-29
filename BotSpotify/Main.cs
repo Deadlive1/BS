@@ -1134,7 +1134,7 @@ namespace BotSpotify
 									  .FindElement(By.XPath("./.."))
 									  .FindElement(By.XPath("./.."))
 									  .GetAttribute("aria-rowindex");
-                    indexTrack = parent.ParseInt().Value ;
+                    indexTrack = parent.ParseInt().Value  ;
 				}
 			}
 
@@ -1195,6 +1195,7 @@ namespace BotSpotify
 					indexTrack = 0;
 					maxTrack = rows.Count;
 					foreach (var row in rows)
+
 					{
 						var pause = row.FindElements(By.XPath(".//button[@aria-label = 'Пауза']"))?.FirstOrDefault();
 						if (pause != null)

@@ -1,3 +1,0 @@
-[8528:20988:0409/163952.519:INFO:CONSOLE(1)] "SharedArrayBuffer will require cross-origin isolation as of M91, around May 2021. See https://developer.chrome.com/blog/enabling-shared-array-buffer/ for more details.", source: https://open.scdn.co/cdn/build/web-player/vendor~web-player.3e2741aa.js (1)
-[8528:20988:0409/163958.657:ERROR:device_event_log_impl.cc(214)] [16:39:58.658] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
-[8528:20988:0409/164641.454:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

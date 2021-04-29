@@ -1,3 +1,0 @@
-2021-04-14 16:22:30.4025 ERROR System.Exception: Ќет авторизированных пользователей
-   at BotSpotify.Main.doWork() in E:\Bitbucket\ParsersAll\BotSpotify\Main.cs:line 513
-2021-04-14 16:24:13.9044 ERROR The HTTP request to the remote WebDriver server for URL http://localhost:50554/session/2ba77d41823444d41a2f524a62e3da9b/elements timed out after 60 seconds.

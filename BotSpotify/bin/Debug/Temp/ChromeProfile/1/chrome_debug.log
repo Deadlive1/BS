@@ -1,4 +1,0 @@
-[2020:11284:0414/172914.275:INFO:CONSOLE(1)] "SharedArrayBuffer will require cross-origin isolation as of M91, around May 2021. See https://developer.chrome.com/blog/enabling-shared-array-buffer/ for more details.", source: https://open.scdn.co/cdn/build/web-player/vendor~web-player.26cc809b.js (1)
-[2020:11284:0414/172922.583:ERROR:device_event_log_impl.cc(214)] [17:29:22.583] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[2020:11284:0414/172922.592:ERROR:device_event_log_impl.cc(214)] [17:29:22.592] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[2020:11284:0414/173135.581:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

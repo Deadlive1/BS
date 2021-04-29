@@ -1,4 +1,0 @@
-[816:23508:0416/164411.961:ERROR:device_event_log_impl.cc(214)] [16:44:11.960] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
-[816:23508:0416/164411.980:ERROR:device_event_log_impl.cc(214)] [16:44:11.979] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: ѕрисоединенное к системе устройство не работает. (0x1F)
-[816:23508:0416/164415.230:INFO:CONSOLE(5551)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (5551)
-[816:23508:0416/164418.593:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

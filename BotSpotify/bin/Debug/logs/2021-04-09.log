@@ -1,8 +1,0 @@
-2021-04-09 16:33:39.5138 ERROR OpenQA.Selenium.WebDriverException: invalid argument: user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
-   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
-   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
-   в OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
-   в OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
-   в OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)
-   в CommonWrapper.SeleniumWrapper.CreateDriverChrome(Boolean isHeadless, Boolean isCookies, String site_name, Boolean isIgnoreCertificateErrors, Boolean isDisableNotification, Boolean isMaximazed, SeleniumProxy proxy, SeleniumSocks socks, String userAgent, Nullable`1 timeOut, Boolean isDisableImages, Boolean isDisableAlerts, Boolean isDisableCache, Boolean isSandBox, String downloadPath) в E:\Bitbucket\ParsersAll\CommonWrapper\SeleniumWrapper.cs:строка 118
-   в BotSpotify.Main.doWorkInside_Spotify(Int64 id) в E:\Bitbucket\ParsersAll\BotSpotify\Main.cs:строка 837
