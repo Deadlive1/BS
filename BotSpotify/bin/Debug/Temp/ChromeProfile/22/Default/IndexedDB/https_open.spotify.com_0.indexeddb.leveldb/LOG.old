@@ -1,2 +1,7 @@
-2021/04/29-15:28:57.674 52ec Creating DB C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb since it was missing.
-2021/04/29-15:28:57.683 52ec Reusing MANIFEST C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/30-14:34:44.036 1648 Reusing MANIFEST C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/30-14:34:44.037 1648 Recovering log #3
+2021/04/30-14:34:44.051 1648 Reusing old log C:\Users\legen\workspace\BS\BS\BotSpotify\bin\Debug\Temp\ChromeProfile\22\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2021/04/30-14:40:34.596 5900 Level-0 table #5: started
+2021/04/30-14:40:34.604 5900 Level-0 table #5: 117454 bytes OK
+2021/04/30-14:40:34.607 5900 Delete type=0 #3
+2021/04/30-14:40:34.608 47f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

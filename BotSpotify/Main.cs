@@ -68,7 +68,7 @@ namespace BotSpotify
 				numericUpDownSeconds.Value = Properties.Settings.Default.SecondsListen;
 				numericUpDownTimeWork.Value = Properties.Settings.Default.TimeWork;
 				numericUpDownTimePause.Value = Properties.Settings.Default.TimePause;
-				numericUpDownRefreshPage.Value = Properties.Settings.Default.RefreshTime;
+				//numericUpDownRefreshPage.Value = Properties.Settings.Default.RefreshTime;
 
 				using (BotContext context = new BotContext())
 				{
@@ -312,11 +312,11 @@ namespace BotSpotify
 
 		}*/
 		//////*****************************************************************************************************************
-		private void numericUpDownRefreshPage_ValueChanged(object sender, EventArgs e)
+		/*private void numericUpDownRefreshPage_ValueChanged(object sender, EventArgs e)
 		{
 			Properties.Settings.Default.RefreshTime = (int)numericUpDownRefreshPage.Value;
 			Properties.Settings.Default.Save();
-		}
+		}*/
 
 		private void ToolStripMenuItemAddUserSpotify_Click(object sender, EventArgs e)
 		{

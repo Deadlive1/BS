@@ -47,7 +47,6 @@
             this.groupBoxAccounts = new System.Windows.Forms.GroupBox();
             this.dataGridViewUsers = new System.Windows.Forms.DataGridView();
             this.groupBoxSettings = new System.Windows.Forms.GroupBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.labelTeedal = new System.Windows.Forms.Label();
             this.labelSpotify = new System.Windows.Forms.Label();
@@ -55,8 +54,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.numericUpDownTimePause = new System.Windows.Forms.NumericUpDown();
             this.label7 = new System.Windows.Forms.Label();
-            this.labelRefreshPage = new System.Windows.Forms.Label();
-            this.numericUpDownRefreshPage = new System.Windows.Forms.NumericUpDown();
             this.label5 = new System.Windows.Forms.Label();
             this.numericUpDownTimeWork = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
@@ -94,7 +91,6 @@
             this.groupBoxSettings.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTimePause)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRefreshPage)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTimeWork)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMaxThreads)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownSeconds)).BeginInit();
@@ -327,13 +323,10 @@
             // 
             // groupBoxSettings
             // 
-            this.groupBoxSettings.Controls.Add(this.label8);
             this.groupBoxSettings.Controls.Add(this.tableLayoutPanel3);
             this.groupBoxSettings.Controls.Add(this.label6);
             this.groupBoxSettings.Controls.Add(this.numericUpDownTimePause);
             this.groupBoxSettings.Controls.Add(this.label7);
-            this.groupBoxSettings.Controls.Add(this.labelRefreshPage);
-            this.groupBoxSettings.Controls.Add(this.numericUpDownRefreshPage);
             this.groupBoxSettings.Controls.Add(this.label5);
             this.groupBoxSettings.Controls.Add(this.numericUpDownTimeWork);
             this.groupBoxSettings.Controls.Add(this.label4);
@@ -346,15 +339,6 @@
             this.groupBoxSettings.TabIndex = 6;
             this.groupBoxSettings.TabStop = false;
             this.groupBoxSettings.Text = "Настройки";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(156, 21);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(30, 13);
-            this.label8.TabIndex = 18;
-            this.label8.Text = "мин.";
             // 
             // tableLayoutPanel3
             // 
@@ -406,7 +390,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(470, 22);
+            this.label6.Location = new System.Drawing.Point(285, 22);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(30, 13);
             this.label6.TabIndex = 14;
@@ -414,7 +398,7 @@
             // 
             // numericUpDownTimePause
             // 
-            this.numericUpDownTimePause.Location = new System.Drawing.Point(419, 19);
+            this.numericUpDownTimePause.Location = new System.Drawing.Point(234, 19);
             this.numericUpDownTimePause.Maximum = new decimal(new int[] {
             999999,
             0,
@@ -428,38 +412,16 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(372, 22);
+            this.label7.Location = new System.Drawing.Point(187, 22);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(41, 13);
             this.label7.TabIndex = 12;
             this.label7.Text = "Пауза:";
             // 
-            // labelRefreshPage
-            // 
-            this.labelRefreshPage.AutoSize = true;
-            this.labelRefreshPage.Location = new System.Drawing.Point(9, 22);
-            this.labelRefreshPage.Name = "labelRefreshPage";
-            this.labelRefreshPage.Size = new System.Drawing.Size(91, 13);
-            this.labelRefreshPage.TabIndex = 12;
-            this.labelRefreshPage.Text = "Обновить через:";
-            // 
-            // numericUpDownRefreshPage
-            // 
-            this.numericUpDownRefreshPage.Location = new System.Drawing.Point(104, 19);
-            this.numericUpDownRefreshPage.Maximum = new decimal(new int[] {
-            999999,
-            0,
-            0,
-            0});
-            this.numericUpDownRefreshPage.Name = "numericUpDownRefreshPage";
-            this.numericUpDownRefreshPage.Size = new System.Drawing.Size(46, 20);
-            this.numericUpDownRefreshPage.TabIndex = 10;
-            this.numericUpDownRefreshPage.ValueChanged += new System.EventHandler(this.numericUpDownRefreshPage_ValueChanged);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(332, 22);
+            this.label5.Location = new System.Drawing.Point(147, 22);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(30, 13);
             this.label5.TabIndex = 11;
@@ -467,7 +429,7 @@
             // 
             // numericUpDownTimeWork
             // 
-            this.numericUpDownTimeWork.Location = new System.Drawing.Point(281, 19);
+            this.numericUpDownTimeWork.Location = new System.Drawing.Point(96, 19);
             this.numericUpDownTimeWork.Maximum = new decimal(new int[] {
             999999,
             0,
@@ -481,7 +443,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(192, 22);
+            this.label4.Location = new System.Drawing.Point(7, 22);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(83, 13);
             this.label4.TabIndex = 9;
@@ -490,7 +452,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(506, 22);
+            this.label2.Location = new System.Drawing.Point(321, 22);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 3;
@@ -498,7 +460,7 @@
             // 
             // numericUpDownMaxThreads
             // 
-            this.numericUpDownMaxThreads.Location = new System.Drawing.Point(566, 19);
+            this.numericUpDownMaxThreads.Location = new System.Drawing.Point(381, 19);
             this.numericUpDownMaxThreads.Name = "numericUpDownMaxThreads";
             this.numericUpDownMaxThreads.Size = new System.Drawing.Size(50, 20);
             this.numericUpDownMaxThreads.TabIndex = 2;
@@ -612,7 +574,7 @@
             // 
             // ToolStripMenuItemClearHistory
             // 
-            this.ToolStripMenuItemClearHistory.Image = global::BotSpotify.Properties.Resources.delete;
+            this.ToolStripMenuItemClearHistory.Image = global::BotSpotify.Properties.Resources.cancel;
             this.ToolStripMenuItemClearHistory.Name = "ToolStripMenuItemClearHistory";
             this.ToolStripMenuItemClearHistory.Size = new System.Drawing.Size(143, 24);
             this.ToolStripMenuItemClearHistory.Text = "Очистить историю";
@@ -670,7 +632,6 @@
             this.tableLayoutPanel3.ResumeLayout(false);
             this.tableLayoutPanel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTimePause)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRefreshPage)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTimeWork)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMaxThreads)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownSeconds)).EndInit();
@@ -713,12 +674,10 @@
         private System.Windows.Forms.ToolStripMenuItem ToolStripMenuItemClearHistory;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.NumericUpDown numericUpDownTimePause;
-        private System.Windows.Forms.NumericUpDown numericUpDownRefreshPage;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.NumericUpDown numericUpDownTimeWork;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label labelRefreshPage;
         private System.Windows.Forms.Timer timerWork;
         private System.Windows.Forms.Timer timerPause;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
@@ -731,7 +690,6 @@
         private System.Windows.Forms.ToolStripMenuItem добавитьАккаунтToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ToolStripMenuItemAddSpotify;
         private System.Windows.Forms.ToolStripMenuItem ToolStripMenuItemAddDeezer;
-        private System.Windows.Forms.Label label8;
     }
 }
 

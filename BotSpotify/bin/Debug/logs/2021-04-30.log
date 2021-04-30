@@ -1,0 +1,34 @@
+2021-04-30 14:36:24.6983 ERROR OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button class="_8e7d398e09c25b24232d92aac8a15a81-scss e8b2fe03d4e4726484b879ed8ff6f096-scss" aria-label="Пауза" data-testid="play-button" style="--size:56px;">...</button> is not clickable at point (301, 28). Other element would receive the click: <button data-testid="top-bar-back-button" aria-hidden="true" aria-label="Назад" disabled="" class="_8780d098bf4fa4b72c62f7f4c869e817-scss fcae410939337be1f28cb50fe3d0dcb3-scss" title="Назад">...</button>
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.pause_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1294
+2021-04-30 14:37:27.7875 ERROR OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button class="_8e7d398e09c25b24232d92aac8a15a81-scss e8b2fe03d4e4726484b879ed8ff6f096-scss" aria-label="Пауза" data-testid="play-button" style="--size:56px;">...</button> is not clickable at point (301, 28). Other element would receive the click: <button data-testid="top-bar-back-button" aria-hidden="true" aria-label="Назад" disabled="" class="_8780d098bf4fa4b72c62f7f4c869e817-scss fcae410939337be1f28cb50fe3d0dcb3-scss" title="Назад">...</button>
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.play_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1082
+2021-04-30 14:37:59.9516 ERROR OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()
+   в BotSpotify.Main.<>c.<getBtnPlay_Spotify>b__61_0(IWebElement x) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в System.Linq.Enumerable.LastOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   в BotSpotify.Main.getBtnPlay_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1344
+   в BotSpotify.Main.pause_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1291
+2021-04-30 14:39:25.2657 ERROR OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button class="_8e7d398e09c25b24232d92aac8a15a81-scss e8b2fe03d4e4726484b879ed8ff6f096-scss" aria-label="Пауза" data-testid="play-button" style="--size:56px;">...</button> is not clickable at point (301, 28). Other element would receive the click: <button data-testid="top-bar-back-button" aria-hidden="true" aria-label="Назад" disabled="" class="_8780d098bf4fa4b72c62f7f4c869e817-scss fcae410939337be1f28cb50fe3d0dcb3-scss" title="Назад">...</button>
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.pause_Spotify(ChromeDriver driver) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1294
+2021-04-30 14:40:30.8591 ERROR OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button class="_8e7d398e09c25b24232d92aac8a15a81-scss e8b2fe03d4e4726484b879ed8ff6f096-scss" aria-label="Пауза" data-testid="play-button" style="--size:56px;">...</button> is not clickable at point (301, 28). Other element would receive the click: <button data-testid="top-bar-back-button" aria-hidden="true" aria-label="Назад" disabled="" class="_8780d098bf4fa4b72c62f7f4c869e817-scss fcae410939337be1f28cb50fe3d0dcb3-scss" title="Назад">...</button>
+  (Session info: chrome=90.0.4430.93)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в BotSpotify.Main.play_Spotify(ChromeDriver driver, BotContext context, User user) в C:\Users\legen\workspace\BS\BS\BotSpotify\Main.cs:строка 1082
